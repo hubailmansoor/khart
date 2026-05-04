@@ -7,7 +7,7 @@ function App() {
       <nav style={{display:'flex',justifyContent:'space-between',alignItems:'center',padding:'1.2rem 2rem',borderBottom:'1px solid #eee'}}>
         <span style={{fontSize:'22px',fontWeight:'500',letterSpacing:'4px'}}>KHART</span>
         <div style={{display:'flex',gap:'1.5rem'}}>
-          <a href="#" style={{fontSize:'13px',color:'#666',textDecoration:'none'}}>Home</a>
+          <a href="/" style={{fontSize:'13px',color:'#666',textDecoration:'none'}}>Home</a>
           <a href="#about" style={{fontSize:'13px',color:'#666',textDecoration:'none'}}>About</a>
           <a href="#contact" style={{fontSize:'13px',color:'#666',textDecoration:'none'}}>Contact</a>
         </div>
@@ -17,7 +17,7 @@ function App() {
         <div style={{display:'inline-block',background:'rgba(255,255,255,0.25)',color:'white',fontSize:'11px',letterSpacing:'3px',padding:'4px 14px',borderRadius:'20px',marginBottom:'1.5rem'}}>NEW COLLECTION 2026</div>
         <h1 style={{fontSize:'52px',fontWeight:'500',color:'white',lineHeight:'1.1',marginBottom:'1rem'}}>Wear what<br/>moves you.</h1>
         <p style={{fontSize:'16px',color:'rgba(255,255,255,0.85)',maxWidth:'400px',margin:'0 auto 2rem',lineHeight:'1.7'}}>Fresh styles for the bold generation. Khart is more than clothing — it's a statement.</p>
-        <a href="#" style={{display:'inline-block',background:'white',color:'#f97316',fontSize:'14px',fontWeight:'500',padding:'12px 32px',borderRadius:'30px',textDecoration:'none'}}>Shop the collection</a>
+        <a href="/" style={{display:'inline-block',background:'white',color:'#f97316',fontSize:'14px',fontWeight:'500',padding:'12px 32px',borderRadius:'30px',textDecoration:'none'}}>Shop the collection</a>
       </div>
 
       <div id="about" style={{padding:'4rem 2rem'}}>
